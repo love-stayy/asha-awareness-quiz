@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+  @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+  </style>
+    <meta charset="UTF-8">
+    <title>Human Trafficking Awareness QUIZ</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <header id="site_header">
+        <div id="header_text">
+          <h1 class="zen-dots-regular">A.S.H.A</h1>
+          <p>Project A.S.H.A. (Awareness, Safety, Hope, Action) combats human trafficking through education, advocacy, and community awareness.</p>
+        </div>
+
+        <div id="header_links">
+          <a href="https://www.instagram.com/project.a.s.h.a/?hl=en" target="_blank">
+            <img src="insta-logo.png" alt="Project A.S.H.A. Instagram">
+          </a>
+
+          <img src="asha-logo.png" alt="Prohject A.S.H.A. logo">
+        </div>
+    </header>
+    <main>
+        <section id="landing_page">
+             <h1>Human Trafficking Awareness QUIZ</h1> 
+                <br>
+                <h2>An educational awareness quiz that helps recognize potential warning signs of human trafficking, exploitation, and unsafe recruitment through realistic scenarios!
+                </h2>
+                <br>
+                <h3> Ready to start? Click the button below to begin the quiz!</h3>
+                <button id="start_button">Start Quiz</button> 
+        </section>
+        
+        <section id="quiz">
+            <h1 id ="question_number"></h1>
+            <p id="scenario"></p>
+            <h3 id="main_question"></h3>
+            <div id="answer_choices"></div>
+            <button id="next_button">Next</button>
+        </section> 
+        
+        <section id="results_page">
+          <header id="results_header">
+            <h1 class = "zen-dots-regular">A.S.H.A</h1>
+
+            <p>Awareness · Safety · Hope · Action</p>
+
+            <nav>
+              <a href="#quiz_results">Check Your Results</a>
+              <a href="#resources">Resources</a>
+            </nav>
+          </header>
+
+
+          <!-- results intro --> 
+          <section id="results_intro">
+            <h1 class="zen-dots-regular">Thank You for Taking the Quiz!</h1>
+            
+            <div id="score_card">
+              <p>Your Score</p>
+              <h2 id="results_text"></h2>
+              <p id="results_msg"></p>
+            </div>
+
+            <section id="quiz_results">
+              <h2 class="zen-dots-regular">Quiz Results</h2>
+              <div id="question_results"></div>
+        </section>
+
+        <!-- resources --> 
+         <section id= "resources">
+          <h2 class="zen-dots-regular">Resources </h2>
+
+
+          <p>Learn more about awareness, safety, and how you can help create safer communites.</p>
+          <div id="resources_links">
+            <a href="https://wwww.project-asha.com/" target = "_blank"> Project A.S.H.A Website</a>
+            <a href="https://www.instagram.com/project.a.s.h.a/?hl=en" target = "_blank"> Project A.S.H.A Instagram</a>
+          </div>
+          </section>
+    </main>
+    <script src="index.js"></script>
+  </body>
+</html>
