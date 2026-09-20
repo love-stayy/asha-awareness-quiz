@@ -42,7 +42,14 @@ const questions = [
             "D. Accept immediately because the opportunity came through a fellow college student."
         ], 
         correct:1,
-        explanation: "..."
+        explanation: `The correct answer is B. 
+<strong>Why is A incorrect?</strong> Regardless of the safety measures implemented, walking into a potentially unsafe situation is still severely dangerous. Human traffickers often use the guise of “exclusive job opportunities to lure young targets to isolated locations. Relying solely on a friend for security does not replace the critical first step of verifying who the person is and whether the business actually exists.
+
+<strong>Why is C incorrect?</strong> This is the most dangerous option. Meeting an unknown person completely alone at an unfamiliar location leaves Maria vulnerable to physical harm, kidnapping, or assault. Leaving behind communication devices means she has absolutely no way to call for help, use GPS, or alert anyone if things go wrong.
+
+<strong>Why is D incorrect?</strong> Just because the contact came from a colleague at a party does not mean the person actually knows the businessman. The student could have been tricked themselves, paid to hand out the number, or could simply be an acquaintance to the businessman. Accepting a job without knowing the responsibilities or verifying the employer's legitimacy could leave Maria in physical danger.
+
+`
 
     },
     { 
@@ -55,7 +62,13 @@ const questions = [
             "D. Send a copy of the documents instead of the actual copies since that is safer."
         ], 
         correct:2,
-        explanation: "..."
+        explanation: `The correct answer is C. 
+<strong>Why is A incorrect?</strong> Sharing highly sensitive identification like a passport with an unverified stranger online threatens exploitation. Regardless of the designer's stated reasons, legitimate professionals do not require official identification documents before even discussing basic job details or establishing a formal, verified relationship. 
+
+<strong>Why is B incorrect?</strong> Asking questions is a good move, but relying solely on the information the designer provides is a major security flaw. Human traffickers are skilled at fabricating elaborate lies, creating fake portfolios, and saying exactly what a young person wants to hear to build trust. Roxanne cannot rely on the predator's own self-reporting to determine if he is safe.
+
+<strong>Why is D incorrect?</strong> Sending copies of documents is just as dangerous as sending the originals. Digital copies of passports and IDs contain full names, birth dates, document numbers, and photos. This is the exact information needed to facilitate human trafficking by tracking, manipulating, or fabricating official records for a minor. 
+`
 
     },   
     { 
@@ -68,7 +81,13 @@ const questions = [
             "D. Quit immediately without telling anyone because leaving the situation is the only way to stay safe."
         ], 
         correct:1,
-        explanation: "..."
+        explanation: `The correct answer is B. 
+<strong>Why is A incorrect?</strong> Continuing to work under these conditions traps Elise in a cycle of severe exploitation. The employer has already violated the original agreement and is using illegal coercion. Honoring a contract that the employer has broken only gives them more control to escalate their abusive demands, such as withholding pay entirely or enforcing worse working conditions.
+
+<strong>Why is C incorrect?</strong> Following the employer's demands to avoid conflict gives the employer confirmation that their threats work. Threatening a worker with legal action or reporting them to authorities to force them to perform unpaid labor is a classic tactic of human trafficking and forced labor. Cooperating temporarily does not keep Elise safe. 
+
+<strong>Why is D incorrect?</strong> While removing herself from the immediate environment is an important goal, quitting and cutting off communication without telling anyone leaves Elise highly vulnerable. The employer has already threatened to report her to authorities. If she disappears without seeking legal support first, the employer may carry out their threats, leaving her to face the consequences alone. 
+`
 
     },
     { 
@@ -81,7 +100,13 @@ const questions = [
             "D. Ask for a written job description and independently verify the company, pay, and working conditions before agreeing to travel."
         ], 
         correct:3,
-        explanation: "..."
+        explanation: `The correct answer is D. 
+<strong>Why is A incorrect?</strong> Offering to handle travel and housing is a common grooming tactic used by traffickers to create immediate isolation and dependence. By allowing an unverified stranger to control his physical movement and living arrangements in a different city, Daniel risks giving up his freedom. Once he arrives, the reality of the situation could change, leaving him trapped far from home with no independent way to escape.
+
+<strong>Why is B incorrect?</strong> Sharing personal data such as his home address, phone number, or ID with an unverified online contact exposes Daniel to identity theft, financial fraud, and stalking. In cases of human trafficking, predators use personal information to blackmail, track, or threaten the victim and their family, stripping away Daniel's leverage before he even fully understands the situation.
+
+<strong>Why is C incorrect?</strong> Flattery and targeting a specific hobby are highly effective manipulation techniques. Just because a recruiter reaches out directly does not mean they are legitimate. Accepting an offer immediately without any details or verification bypasses critical safety checks, walking Daniel straight into a situation that could involve forced labor, fraud, or physical danger under the guise of a dream job.
+`
 
     },
     { 
@@ -94,7 +119,13 @@ const questions = [
             "D. Keep the situation secret and try to negotiate privately so the person does not become more threatening."
         ], 
         correct:0,
-        explanation: "..."
+        explanation: `The answer is A
+<strong>Why is B incorrect?</strong> Continuing to work out of a sense of obligation or respect gives the trafficker total power to escalate the abuse. Traffickers intentionally use blackmail (sharing private information) and extreme threats to make victims feel like they have no choice but to comply, meaning the initial agreement is completely void and illegal.
+
+<strong>Why is C incorrect?</strong> Giving the exploiters more time or assuming they are trying to help ignores the active danger. The fact that they are already withholding earnings and making threats is a definitive sign of criminal exploitation, not a temporary business misunderstanding.
+
+<strong>Why is D incorrect?</strong> Keeping the situation secret and trying to negotiate privately plays directly into the trafficker's hands. Traffickers rely on secrecy and isolation to keep their victims trapped; attempting to handle a dangerous criminal alone prevents Jordan from getting the legal or physical protection needed to escape safely.
+`
 
     },
     { 
@@ -107,7 +138,13 @@ const questions = [
             "D. The situation cannot be exploitation because Marcus already knows and trusts the person asking him to work."
         ], 
         correct:2,
-        explanation: "..."
+        explanation:`The answer is C
+<strong>Why is A incorrect?</strong> While balancing school and work is hard, focusing only on his schedule completely misses the severe human rights violation occurring. The actual issue is not time management, but forced labor and financial abuse.
+
+<strong>Why is B incorrect?</strong> Family loyalty should never include being forced into unpaid labor through coercion and intimidation. Traffickers frequently use familial relationships and cultural obligations to make a young person feel guilty, but charging a minor a "debt" for basic survival needs like food and shelter is illegal.
+
+<strong>Why is D incorrect?</strong> Knowing and trusting someone does not mean they are incapable of exploitation. In fact, labor trafficking frequently happens within families or close circles because the perpetrator knows they can use the victim's existing love, trust, and dependence as a weapon to keep them compliant.
+`
 
     },
     { 
@@ -120,7 +157,14 @@ const questions = [
             "D. Alex should keep the situation private because relationship problems should be handled between partners."
         ], 
         correct:0,
-        explanation: "..."
+        explanation: ` The answer is A
+<strong>Why is B incorrect?</strong> Normal financial management in a healthy relationship involves mutual consent and transparency, not forced labor. Downplaying these severe control tactics as simple "money management" ignores the deliberate grooming process used to turn an intimate relationship into a trafficking trap.
+
+<strong>Why is C incorrect?</strong> The "debt" in this scenario is completely made to trap Alex. Traffickers artificially create or inflate financial obligations (like rent or gifts) and use them as psychological leverage to convince the victim that they legally or morally "owe" labor, which is a classic form of debt bondage.
+
+<strong>Why is D incorrect?</strong> Keeping relationship abuse private isolates Alex from a support network, which is exactly what the abuser wants. Reaching out to external resources or trusted individuals is the only reliable way to break the cycle of isolation and safely escape the partner's threats.
+
+`
 
     },
     { 
@@ -133,10 +177,15 @@ const questions = [
             "D. Ethan should continue working until he has repaid everything he owes."
         ], 
         correct:1,
-        explanation: "..."
+        explanation: `The answer is B
+<strong>Why is A incorrect?</strong> While struggling with a dependency is a serious challenge, the primary warning sign regarding trafficking is how another person is actively exploiting that medical vulnerability. The helper is not actually providing medical or compassionate care; they are using a substance as a weapon of control.
+
+<strong>Why is C incorrect?</strong> The lack of a clear job description is a minor detail compared to the active coercion taking place. The core danger is not that the job terms are vague, but that Ethan is being forced into labor through the manipulation of his dependency and a fake debt.
+
+<strong>Why is D incorrect?</strong> Ethan does not legally or morally owe anything. Traffickers purposefully target individuals dealing with substance use dependencies because they can use the threat of withdrawal or exposure to force compliance, and continuing to work will only trap Ethan further.
+`
 
     }
-
 ]
 
 const questionNumber = document.getElementById("question_number");
