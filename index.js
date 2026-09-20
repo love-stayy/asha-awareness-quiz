@@ -13,12 +13,12 @@ startButton.addEventListener("click", function() {
 
 nextButton.addEventListener("click", function() {
     if (currentQuestion < questions.length - 1) {
-       /*if (userAnswers[currentQuestion] !== undefined) {*/
+       if (userAnswers[currentQuestion] !== undefined) {
             currentQuestion++;
             displayQuestion();
-        /*} else { 
+        } else { 
             alert("Please select an answer before proceeding to the next question.");
-        }*/
+        }
     } else {
             quiz.style.display = "none";
             resultsPage.style.display = "block";
